@@ -24,7 +24,7 @@ print(" ") #spacing
 
 
 
-# asking email to the user
+# User Input for email
 email = input("Enter email: ")
 
 # asking phone no to the user
